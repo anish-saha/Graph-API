@@ -1,0 +1,13 @@
+L The_Wall 2.0 2.0
+L Winterfell 4.0 2.0
+L Riverlands 4.0 3.0
+L Kings_Landing 4.2 2.3
+L High_Garden 4.2 2.9
+L Essos 7.2 3.1
+
+
+R The_Wall Road0 34.19 WE Winterfell
+R Winterfell Road1 89.17 NS Riverlands
+R Riverlands Road1 34.23 NS Kings_Landing
+R Kings_Landing Road1 67.12 NS High_Garden
+R High_Garden BySea 89.31 WE Essos
