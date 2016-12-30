@@ -11,6 +11,8 @@ To run the make client, use the command: java make [-D FILEINFO] [-f MAKEFILE] T
 For example, running { java -ea make.Main -f test.mk -D test.dir `cat test.in` } would run the make client
 on the specified files. This client is primarily used for compiling and building Java applications.
 
+=========================================
+
 Trip Client Screenshots:
 
 ![Alt text](trip_Map.png)
