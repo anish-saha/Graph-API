@@ -19,6 +19,8 @@ Trip Client Screenshots:
 
 ![Alt text](trip_Out.png)
 
+=========================================
+
 Make Client Screenshots:
 
 ![Alt text](make_Mk.png)
