@@ -1,6 +1,6 @@
 # Graph-API
 One of my CS61B projects where I created a Graph API to implement a trip and a make client.
-Makes use of directed and undirected graphs to run these clients. Both clients utilized implementations
+Makes use of directed or undirected graphs to run these clients. Both clients utilized implementations
 of Djiktra's algorithm, Depth/Breadth First Search, and A * Traversal.
 
 To run the trip client, use the command: `java trip.Main [ -m MAPFILE ] [ -o OUTFILE ] [ REQUESTFILE ]`
